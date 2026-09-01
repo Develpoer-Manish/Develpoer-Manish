@@ -1,12 +1,116 @@
-- 👋 Hi, I’m @Develpoer-Manish
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Manish Kumar
 
-<!---
-Develpoer-Manish/Develpoer-Manish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 .NET Developer | Full-Stack Developer | Technology Learner
+
+I’m a passionate **Software Developer** who enjoys building practical applications, learning new technologies, and solving real-world problems through code.
+
+---
+
+## 🚀 About Me
+
+* 💻 I'm a **.NET Developer** focused on building scalable web applications.
+* 🔥 I work with **ASP.NET Core, MVC, C#, SQL Server, JavaScript, jQuery, HTML & CSS**.
+* 🤖 Currently exploring **Face Recognition, Computer Vision, APIs and modern web technologies**.
+* 🌱 Continuously learning new technologies and improving my software development skills.
+* 🛠️ I enjoy converting ideas into **real-world projects and useful applications**.
+* 💞️ Open to collaborating on interesting **.NET, web development and software projects**.
+* 📚 I believe in **learning by building**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+`C#` `ASP.NET Core` `ASP.NET MVC` `.NET` `Web API`
+
+### Frontend
+
+`HTML5` `CSS3` `JavaScript` `jQuery` `Bootstrap`
+
+### Database
+
+`SQL Server` `ADO.NET` `Entity Framework Core`
+
+### Tools & Technologies
+
+`Git` `GitHub` `Visual Studio` `REST APIs` `OpenCV`
+
+---
+
+## 📌 Featured Projects
+
+### 👤 Face Recognition Attendance System
+
+A face-recognition based attendance application built with .NET and OpenCV.
+
+**Features:**
+
+* 📷 Real-time face recognition
+* 👤 Person registration
+* ✅ Automatic attendance
+* 🕐 Check-in / Check-out
+* 📊 Attendance dashboard
+* 📈 Attendance statistics
+* 🔐 Duplicate attendance protection
+
+**Technologies:**
+`ASP.NET Core` `C#` `Entity Framework Core` `SQL Server` `OpenCV`
+
+---
+
+### 📹 Video Calling Application
+
+A web-based video calling application with real-time communication.
+
+**Technologies:**
+`ASP.NET MVC 5` `C#` `SignalR` `JavaScript` `jQuery` `WebRTC`
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Develpoer-Manish\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Develpoer-Manish\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Develpoer-Manish\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Improve my **.NET development skills**
+* 🧠 Learn more about **AI & Computer Vision**
+* 🌐 Build more production-ready web applications
+* 📚 Learn new technologies consistently
+* 🤝 Contribute to open-source projects
+* 💼 Grow as a professional software developer
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, learning from others, and collaborating on interesting projects.
+
+### 📫 Contact
+
+* 💻 GitHub: **[@Develpoer-Manish](https://github.com/Develpoer-Manish)**
+* 📧 Email: Add your email here
+* 💼 LinkedIn: Add your LinkedIn profile here
+
+---
+
+### ⚡ Developer Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+---
+
+⭐ If you find my projects useful, consider giving them a star!
+
+**Thanks for visiting my profile! 🚀**
