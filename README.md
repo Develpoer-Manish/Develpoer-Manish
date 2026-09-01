@@ -1,20 +1,23 @@
-Hi, I'm Manish Kumar
+# Hi, I'm Manish Kumar
 
-.NET Developer | Full-Stack Developer | Technology Learner
+### .NET Developer | Full-Stack Developer | Technology Learner
 
-I’m a passionate **Software Developer** who enjoys building practical applications, learning new technologies, and solving real-world problems through code.
+I'm a passionate **Software Developer** who enjoys building web applications, solving real-world problems through code, and continuously learning new technologies.
+
+I’m focused on improving my development skills, understanding modern software technologies, and turning ideas into practical and useful solutions.
 
 ---
 
-About Me
+## About Me
 
-* I'm a **.NET Developer** focused on building scalable web applications.
-* I work with **ASP.NET Core, MVC, C#, SQL Server, JavaScript, jQuery, HTML & CSS**.
-* Currently exploring **Face Recognition, Computer Vision, APIs and modern web technologies**.
-* Continuously learning new technologies and improving my software development skills.
-* I enjoy converting ideas into **real-world projects and useful applications**.
-* Open to collaborating on interesting **.NET, web development and software projects**.
-* I believe in **learning by building**.
+* I'm a **.NET Developer** with an interest in full-stack web development.
+* I work with **C#, ASP.NET Core, ASP.NET MVC, Web API, SQL Server, JavaScript, jQuery, HTML, CSS, and Bootstrap**.
+* Currently exploring **AI, Computer Vision, APIs, OpenCV, and modern web technologies**.
+* I believe in **continuous learning and learning by building**.
+* I enjoy understanding how things work and applying that knowledge to real-world problems.
+* Always working on improving my coding, problem-solving, and software development skills.
+* Open to collaborating with developers on interesting **.NET, web development, AI, and software projects**.
+* My goal is to become a stronger and more versatile software developer.
 
 ---
 
@@ -38,65 +41,49 @@ About Me
 
 ---
 
-Featured Projects
+## Currently Learning
 
-Face Recognition Attendance System
-
-A face-recognition based attendance application built with .NET and OpenCV.
-
-**Features:**
-
-* Real-time face recognition
-* Person registration
-* Automatic attendance
-* Check-in / Check-out
-* Attendance dashboard
-* Attendance statistics
-* Duplicate attendance protection
-
-**Technologies:**
-`ASP.NET Core` `C#` `Entity Framework Core` `SQL Server` `OpenCV`
+* Artificial Intelligence
+* Computer Vision
+* Modern Web Development
+* REST APIs and Backend Development
+* Software Architecture and Best Practices
+* Modern .NET Technologies
+* Data Structures and Problem Solving
 
 ---
 
-### Video Calling Application
+## My Goals
 
-A web-based video calling application with real-time communication.
-
-**Technologies:**
-`ASP.NET MVC 5` `C#` `SignalR` `JavaScript` `jQuery` `WebRTC`
-
----
-
-## 2026 Goals
-
-* Improve my **.NET development skills**
-* Learn more about **AI & Computer Vision**
-* Build more production-ready web applications
-* Learn new technologies consistently
+* Improve my **.NET and full-stack development skills**
+* Build strong knowledge of **AI and Computer Vision**
+* Learn and use modern technologies
+* Write clean, maintainable, and scalable code
+* Build production-ready applications
 * Contribute to open-source projects
+* Continuously improve my problem-solving skills
 * Grow as a professional software developer
+
+---
+
+## My Learning Philosophy
+
+> **Learn → Build → Practice → Improve → Repeat**
+
+I believe the best way to learn technology is by **building, experimenting, making mistakes, and continuously improving**.
 
 ---
 
 ## Let's Connect
 
-I'm always interested in connecting with developers, learning from others, and collaborating on interesting projects.
+I'm always interested in connecting with developers, sharing knowledge, learning new technologies, and collaborating on interesting ideas.
 
-### Contact
-
-* GitHub: **[@Develpoer-Manish](https://github.com/Develpoer-Manish)**
-* Email: manishktech60@gmail.com
-* LinkedIn: [Add your LinkedIn profile here](https://www.linkedin.com/in/manish-kumar-9783891b0/)
+* GitHub: [@Develpoer-Manish](https://github.com/Develpoer-Manish)
+* Email: [manishktech60@gmail.com](mailto:manishktech60@gmail.com)
+* LinkedIn: [Manish Kumar](https://www.linkedin.com/in/manish-kumar-9783891b0/)
 
 ---
 
-### Developer Quote
+### Code. Learn. Build. Repeat.
 
-> **"Code. Learn. Build. Repeat."**
-
----
-
-If you find my projects useful, consider giving them a star!
-
-**Thanks for visiting my profile! 🚀**
+Thanks for visiting my profile.
